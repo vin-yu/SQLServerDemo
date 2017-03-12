@@ -1,5 +1,5 @@
 ﻿--Note: Run setup.sql script to create ProductCatalog database.
-USE ProductCatalog
+USE Product;
 GO
 
 -- Find the time when the first product(s) were inserted.
